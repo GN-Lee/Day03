@@ -1,0 +1,26 @@
+.Blue {
+  background-color: blue;
+  color: white;
+}
+
+.Pill {
+  border: none;
+  border-radius: 4px;
+}
+
+.p-1 {
+  padding: 4px;
+}
+
+.p-2 {
+  padding: 6px 20px;
+}
+
+.p-3 {
+  padding: 8px 50px;
+}
+
+.round {
+  border: none;
+  border-radius: 20px;
+}

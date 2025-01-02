@@ -1,0 +1,15 @@
+.box {
+  background-color: blueviolet;
+}
+
+.view {
+  background-color: aqua;
+}
+
+.back {
+  background-color: chartreuse;
+}
+
+div {
+  height: 100vh;
+}
